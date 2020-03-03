@@ -90,7 +90,7 @@ def graphStateVector(startingState):
     ax.bar(xx, startingState, width=0.8, align='center')
     ax.set_xticks(xx)
     ax.set_xticklabels(numbers)
-
+    plt.savefig("EstadoInicial.png")
     plt.show()
     
 ##def main():
