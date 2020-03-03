@@ -85,7 +85,7 @@ def graphStateVector(startingState):
     fig = plt.figure(u'Gráfica de barras') # Figure
     ax = fig.add_subplot(111) # Axes
     numbers=[[x] for x in range(len(startingState))]
-    xx=range(len(startingState))
+    xx=range(0,1)
 
     ax.bar(xx, startingState, width=0.8, align='center')
     ax.set_xticks(xx)
