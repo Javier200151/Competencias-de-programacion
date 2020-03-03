@@ -88,8 +88,7 @@ def graphStateVector(startingState):
     for i in range(len(startingState)):
         startingState[i]=(1/startingState[i])
     xx=range(len(startingState))
-    print(startingState)
-    print(numbers)
+
     ax.bar(xx, startingState, width=0.8, align='center')
     ax.set_xticks(xx)
     ax.set_xticklabels(numbers)
