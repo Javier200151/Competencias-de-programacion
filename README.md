@@ -7,7 +7,7 @@ Programa simulación de lo clásico a lo cuántico, basado en las competencias d
 - Una función para graficar con un diagrama de barras que muestre las probabilidades de un vector de estados. La imagen se guarda en el computador con el formato de imagen .png.
 
 ## Getting Started
-Para descargar este archivo puede seleccionar todo el texto y copiarlo en un archivo .py para empezar a probar la libreria. Se deben poner la libreria en la misma direccion de archivo que las pruebas para que funcionen. 
+Para descargar este archivo puede descargarlos. Se deben poner la libreria en la misma direccion de archivo que las pruebas para que funcionen. Puede probar la funcion de las graficas de barras con ***graphStateVector(startingState)*** donde el parametro *startingState* es el vector a graficar de estado.
 
 ## Prerequisites
 Se uso el lenguaje python, se escribio en el editor de IDLE, cualquier editor de python (.py) sera suficiente para correr la libreria
