@@ -1,13 +1,13 @@
 # Competencias-de-programacion
 Programa simulación de lo clásico a lo cuántico, basado en las competencias de programacion del libro *Quantum Computing for Computer Scientists* programado en python acompañado de sus pruebas con PyUnit. La libreria contiene:
 
-- Los experimentos de la canicas
--- Experimento de ejemplo:
-![No se puede cargar](https://raw.githubusercontent.com/Javier200151/Competencias-de-programacion/master/canicas.PNG)
-![No se puede cargar](https://raw.githubusercontent.com/Javier200151/Competencias-de-programacion/master/EstadoInicial.png)
-- Experimentos de las múltiples rendijas clásico probabilístico, con más de dos rendijas.
-- Experimento de las múltiples rendijas cuántico.
-- Una función para graficar con un diagrama de barras que muestre las probabilidades de un vector de estados. La imagen se guarda en el computador con el formato de imagen .png.
+1. Los experimentos de la canicas
+  - Experimento de ejemplo:
+    - ![No se puede cargar](https://raw.githubusercontent.com/Javier200151/Competencias-de-programacion/master/canicas.PNG)
+    - ![No se puede cargar](https://raw.githubusercontent.com/Javier200151/Competencias-de-programacion/master/EstadoInicial.png)
+2. Experimentos de las múltiples rendijas clásico probabilístico, con más de dos rendijas.
+3. Experimento de las múltiples rendijas cuántico.
+4. Una función para graficar con un diagrama de barras que muestre las probabilidades de un vector de estados. La imagen se guarda en el computador con el formato de imagen .png.
 
 ## Getting Started
 Para descargar este archivo puede descargarlos. Se deben poner la libreria en la misma direccion de archivo que las pruebas para que funcionen. Puede probar la funcion de las graficas de barras con ***graphStateVector(startingState)*** donde el parametro *startingState* es el vector a graficar de estado.
