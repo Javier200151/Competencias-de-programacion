@@ -5,7 +5,9 @@ Programa simulación de lo clásico a lo cuántico, basado en las competencias d
   - Experimento de ejemplo:
     - ![No se puede cargar](https://raw.githubusercontent.com/Javier200151/Competencias-de-programacion/master/canicas.PNG)
     - ![No se puede cargar](https://raw.githubusercontent.com/Javier200151/Competencias-de-programacion/master/EstadoInicial.png)
-2. Experimentos de las múltiples rendijas clásico probabilístico, con más de dos rendijas.
+2. Experimentos de las múltiples rendijas clásico probabilístico, con más de dos rendijas. 
+  - Experimento de ejemplo:
+    - ![No se puede cargar](https://raw.githubusercontent.com/Javier200151/Competencias-de-programacion/master/rendijas.PNG)
 3. Experimento de las múltiples rendijas cuántico.
 4. Una función para graficar con un diagrama de barras que muestre las probabilidades de un vector de estados. La imagen se guarda en el computador con el formato de imagen .png.
 
