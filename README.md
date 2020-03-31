@@ -2,6 +2,8 @@
 Programa simulación de lo clásico a lo cuántico, basado en las competencias de programacion del libro *Quantum Computing for Computer Scientists* programado en python acompañado de sus pruebas con PyUnit. La libreria contiene:
 
 - Los experimentos de la canicas
+![No se puede cargar]
+(https://raw.githubusercontent.com/Javier200151/Competencias-de-programacion/master/EstadoInicial.png)
 - Experimentos de las múltiples rendijas clásico probabilístico, con más de dos rendijas.
 - Experimento de las múltiples rendijas cuántico.
 - Una función para graficar con un diagrama de barras que muestre las probabilidades de un vector de estados. La imagen se guarda en el computador con el formato de imagen .png.
